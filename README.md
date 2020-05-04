@@ -1,2 +1,79 @@
 # akiraWebhook
-A tool to spam a Discord webhook
+
+# How to download it?
+
+# Windows
+
+It's very simple.
+
+First, download the ZIP file of Kaneda Crypt. After this, dezip the file in a folder.
+
+After, open a command prompt and go to the folder where you download Kaneda Crypt.
+
+```
+python3 -m pip install -r requests
+```
+If the package is downloaded, everything is okay (normally).
+
+# Linux
+
+For Linux, it's easier! Open a terminal and execute the following command:
+
+```
+git clone https://github.com/akira-trinity/akiraWebhook.git
+```
+
+Same, download the module.
+
+```
+python3 -m pip install requests
+```
+
+# How to use it?
+
+# Windows
+
+Basically, the easiest way to use it is to launch the script in the command prompt.
+
+First, go in the folder where do you download Kaneda Crypt:
+
+```
+cd [The path to the folder]
+```
+And after this, just run the script!
+
+```
+python3 akiraWebhook.py
+```
+
+# Linux
+
+Go to the folder of Kaneda Crypt:
+
+```
+cd akiraWebhook/
+```
+
+And run the script!
+
+```
+python3 akiraWebhook.py
+```
+
+# Utilities:
+
+[1] Spam
+
+
+
+
+
+
+
+
+
+
+
+
+
+# akira 01/04/2020  akiraWebhook ©
