@@ -6,9 +6,9 @@
 
 It's very simple.
 
-First, download the ZIP file of Kaneda Crypt. After this, dezip the file in a folder.
+First, download the ZIP file of akiraWebhook. After this, dezip the file in a folder.
 
-After, open a command prompt and go to the folder where you download Kaneda Crypt.
+After, open a command prompt and go to the folder where you download akiraWebhook.
 
 ```
 python3 -m pip install -r requests
@@ -35,7 +35,7 @@ python3 -m pip install requests
 
 Basically, the easiest way to use it is to launch the script in the command prompt.
 
-First, go in the folder where do you download Kaneda Crypt:
+First, go in the folder where do you download akiraWebhook:
 
 ```
 cd [The path to the folder]
@@ -48,7 +48,7 @@ python3 akiraWebhook.py
 
 # Linux
 
-Go to the folder of Kaneda Crypt:
+Go to the folder of akiraWebhook:
 
 ```
 cd akiraWebhook/
