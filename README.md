@@ -11,7 +11,7 @@ First, download the ZIP file of akiraWebhook. After this, dezip the file in a fo
 After, open a command prompt and go to the folder where you download akiraWebhook.
 
 ```
-python3 -m pip install -r requests
+python3 -m pip install requests
 ```
 If the package is downloaded, everything is okay (normally).
 
