@@ -51,7 +51,7 @@ python3 akiraWebhook.py
 Go to the folder of akiraWebhook:
 
 ```
-cd akiraWebhook/
+cd [Path to the folder of akiraWebhook]
 ```
 
 And run the script!
@@ -68,7 +68,10 @@ python3 akiraWebhook.py
 
 
 
+# Error
 
+
+If you have an error when you run the script or the installation command, try to put python and not python3!
 
 
 
